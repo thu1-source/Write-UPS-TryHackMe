@@ -1,2 +1,2 @@
 # Write-UPS-TryHackMe
-Maquinas vulnerables de TryHackMe, rooms y modules.
+Write Ups de TryHackMe
